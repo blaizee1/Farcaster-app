@@ -47,6 +47,7 @@
     "@vitest/browser-webdriverio": "latest",
     "@vitest/ui": "latest",
     "autoprefixer": "^10.4.20",
+    "canvas": "latest",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "cmdk": "1.0.4",
@@ -58,6 +59,7 @@
     "lucide-react": "^0.454.0",
     "next": "16.0.10",
     "next-themes": "^0.4.6",
+    "playwright": "latest",
     "react": "19.2.0",
     "react-day-picker": "9.8.0",
     "react-dom": "19.2.0",
@@ -68,6 +70,7 @@
     "tailwind-merge": "^3.3.1",
     "tailwindcss-animate": "^1.0.7",
     "vaul": "^1.1.2",
+    "webdriverio": "latest",
     "zod": "3.25.76"
   },
   "devDependencies": {
