@@ -1,0 +1,28 @@
+{
+    "accountAssociation": {
+      "header": "PLACEHOLDER_HEADER",
+      "payload": "PLACEHOLDER_PAYLOAD",
+      "signature": "PLACEHOLDER_SIGNATURE"
+    },
+    "frame": {
+      "version": "1",
+      "name": "OnChain Pulse",
+      "iconUrl": "https://farcaster-app-five.vercel.app/icon.png",
+      "homeUrl": "https://farcaster-app-five.vercel.app",
+      "imageUrl": "https://farcaster-app-five.vercel.app/preview.png",
+      "splashImageUrl": "https://farcaster-app-five.vercel.app/splash.png",
+      "splashBackgroundColor": "#7c3aed",
+      "webhookUrl": "https://farcaster-app-five.vercel.app/api/webhook"
+    },
+    "miniapp": {
+      "url": "https://farcaster-app-five.vercel.app",
+      "metadata": {
+        "name": "OnChain Pulse",
+        "subtitle": "Track social metrics and on-chain activity",
+        "description": "A Farcaster Mini App that tracks social metrics and on-chain activity with interactive visualizations. Features include social metrics tracking, on-chain heatmaps, hourly density charts, and interactive timelines.",
+        "primaryCategory": "analytics",
+        "tags": ["analytics", "blockchain", "social", "metrics", "visualization"]
+      }
+    }
+  }
+ 
