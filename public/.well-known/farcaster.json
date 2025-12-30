@@ -1,10 +1,9 @@
 {
-    "accountAssociation": {
-        
-          "header": "eyJmaWQiOjU0NTg5MSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEYwOTM1Q2M2QzgxMjREQ2QxQzA3OUIxODBBMkYxM2VGMUMxNjM5NGEifQ",
-          "payload": "eyJkb21haW4iOiJmYXJjYXN0ZXItYXBwLWlvdGEudmVyY2VsLmFwcCJ9",
-          "signature": "ySaA0i+bEVrmqj8HDTdLX7BwG3PzQPvi2cqtM3Ss5rBev/dGVUzUvnNCFZ4rmoUh7g+3C5MPqhcUJeJsuqy5HBs="
-        },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjU0NTg5MSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEYwOTM1Q2M2QzgxMjREQ2QxQzA3OUIxODBBMkYxM2VGMUMxNjM5NGEifQ",
+    "payload": "eyJkb21haW4iOiJmYXJjYXN0ZXItYXBwLW5pbmUudmVyY2VsLmFwcCJ9",
+    "signature": "82Ck4Kf+rj2H7pgyIHLG+wHkaMRb7tjhmVAxF8bW1sQMJkCd1lCMAiGonLnrQMQ8U8DPysCv6oflIzDGhwOoLBs="
+  },
     "version": "1",
     "name": "OnChain Pulse",
     "iconUrl": "https://farcaster-app-five.vercel.app/icon.png",
