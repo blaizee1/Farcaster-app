@@ -105,7 +105,7 @@ intensity = (normalizedCount × 0.4) + (normalizedVolume × 0.4) + (normalizedGa
 ```bash
 git clone <repository-url>
 cd onchain-pulse
-npm install
+pnpm install
 ```
 
 ### 2. Configure Environment Variables
@@ -123,7 +123,7 @@ Required variables:
 ### 3. Run Development Server
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view the app.
@@ -132,10 +132,10 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 
 ```bash
 # Unit tests
-npm test
+pnpm test
 
 # E2E tests
-npm run test:e2e
+pnpm run test:e2e
 ```
 
 ## Deployment
@@ -210,14 +210,14 @@ Users can:
 
 Test API contracts:
 ```bash
-npm test
+pnpm test
 ```
 
 ### E2E Tests
 
 Test full user flows:
 ```bash
-npm run test:e2e
+pnpm run test:e2e
 ```
 
 ## Contributing
