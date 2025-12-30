@@ -1,15 +1,15 @@
 {
-    "accountAssociation": {
-        
-          "header": "eyJmaWQiOjU0NTg5MSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEYwOTM1Q2M2QzgxMjREQ2QxQzA3OUIxODBBMkYxM2VGMUMxNjM5NGEifQ",
-          "payload": "eyJkb21haW4iOiJmYXJjYXN0ZXItYXBwLWlvdGEudmVyY2VsLmFwcCJ9",
-          "signature": "ySaA0i+bEVrmqj8HDTdLX7BwG3PzQPvi2cqtM3Ss5rBev/dGVUzUvnNCFZ4rmoUh7g+3C5MPqhcUJeJsuqy5HBs="
-        },
-    "version": "1",
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgxMjM0NTY3ODkwIn0",
+    "payload": "eyJkb21haW4iOiJvbmNoYWlucHVsc2UuY29tIn0",
+    "signature": "MHg..."
+  },
+  "frame": {
+    "version": "next",
     "name": "OnChain Pulse",
-    "iconUrl": "https://farcaster-app-five.vercel.app/icon.png",
-    "homeUrl": "https://farcaster-app-five.vercel.app",
-    "imageUrl": "https://farcaster-app-five.vercel.app/preview.png",
-    "splashImageUrl": "https://farcaster-app-five.vercel.app/splash.png",
-    "splashBackgroundColor": "#7c3aed"
+    "iconUrl": "https://onchainpulse.com/icon.png",
+    "splashImageUrl": "https://onchainpulse.com/splash.png",
+    "splashBackgroundColor": "#000000",
+    "homeUrl": "https://onchainpulse.com"
   }
+}
