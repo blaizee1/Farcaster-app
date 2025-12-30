@@ -182,7 +182,8 @@ onchain-pulse/
 │   ├── metrics-summary.tsx               # Stats cards
 │   └── privacy-controls.tsx              # Privacy settings
 ├── public/
-│   └── farcaster-manifest.json           # Farcaster Mini App manifest
+│   └── .well-known/
+│       └── farcaster-manifest.json      # Farcaster Mini App manifest
 ├── .env.example                          # Environment variables template
 ├── package.json
 └── README.md
@@ -192,7 +193,7 @@ onchain-pulse/
 
 The app includes Farcaster Mini App metadata in:
 - `app/page.tsx`: Frame metadata tags
-- `public/farcaster-manifest.json`: Mini App manifest
+- `public/.well-known/farcaster-manifest.json`: Mini App manifest
 
 ## Privacy Features
 
