@@ -4,11 +4,12 @@
     "payload": "eyJkb21haW4iOiJmYXJjYXN0ZXItYXBwLW5pbmUudmVyY2VsLmFwcCJ9",
     "signature": "82Ck4Kf+rj2H7pgyIHLG+wHkaMRb7tjhmVAxF8bW1sQMJkCd1lCMAiGonLnrQMQ8U8DPysCv6oflIzDGhwOoLBs="
   },
-  "version": "1",
-  "name": "OnChain Pulse",
-  "iconUrl": "https://farcaster-app-five.vercel.app/icon.png",
-  "homeUrl": "https://farcaster-app-five.vercel.app",
-  "imageUrl": "https://farcaster-app-five.vercel.app/preview.png",
-  "splashImageUrl": "https://farcaster-app-five.vercel.app/splash.png",
-  "splashBackgroundColor": "#7c3aed"
+  "frame": {
+    "version": "next",
+    "name": "OnChain Pulse",
+    "iconUrl": "https://onchainpulse.com/icon.png",
+    "splashImageUrl": "https://onchainpulse.com/splash.png",
+    "splashBackgroundColor": "#000000",
+    "homeUrl": "https://onchainpulse.com"
+  }
 }
