@@ -7,8 +7,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: "OnChain Pulse - Track Your Social & On-Chain Activity",
+  description: "Visualize your Farcaster social metrics overlaid with on-chain activity heatmaps",
   generator: 'v0.app',
   icons: {
     icon: [
@@ -26,6 +26,13 @@ export const metadata: Metadata = {
       },
     ],
     apple: '/apple-icon.png',
+  },
+  other: {
+    "fc:frame": "vNext",
+    "fc:frame:image": `${process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"}/api/og`,
+    "fc:frame:button:1": "Open App",
+    "fc:frame:button:1:action": "link",
+    "fc:frame:button:1:target": process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000",
   },
 }
 
