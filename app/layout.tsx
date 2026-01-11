@@ -7,8 +7,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "OnChain Pulse - Track Your Social & On-Chain Activity",
-  description: "Visualize your Farcaster social metrics overlaid with on-chain activity heatmaps",
+  title: "Activity Pulse - Track Your Farcaster Activity",
+  description: "Visualize your Farcaster social metrics and activity patterns",
   generator: 'v0.app',
   icons: {
     icon: [

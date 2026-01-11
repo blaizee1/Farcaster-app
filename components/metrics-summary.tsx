@@ -7,7 +7,7 @@ import type { MetricsResponse } from "@/app/api/metrics/[userId]/route"
 
 interface MetricsSummaryProps {
   userId: string
-  address: string
+  address?: string
 }
 
 export function MetricsSummary({ userId, address }: MetricsSummaryProps) {
